@@ -1,0 +1,27 @@
+{
+  "name": "innohacks",
+  "version": "1.0.0",
+  "description": "A request interceptor that checks and detects AI generated images and deepfakes and injects labels accordingly in the request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshay-99h/literate-waddle.git"
+  },
+  "keywords": [
+    "node",
+    "interceptor",
+    "express",
+    "AI",
+    "image",
+    "deepfake"
+  ],
+  "author": "Akshay Mishra (@akshay-99h)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshay-99h/literate-waddle/issues"
+  },
+  "homepage": "https://github.com/akshay-99h/literate-waddle#readme"
+}
