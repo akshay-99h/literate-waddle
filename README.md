@@ -16,7 +16,7 @@ ensuring the integrity and authenticity of the content being processed.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/akshay-9h/literate-waddle.git
+   git clone https://github.com/akshay-99h/literate-waddle.git
 
    ```
 
@@ -51,5 +51,5 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - Author: Akshay Mishra (@akshay-99h)
-- Project Link: [https://github.com/akshay-9h/literate-waddle](https://github.com/akshay-9h/literate-waddle)
-- Issues: [https://github.com/akshay-9h/literate-waddle/issues](https://github.com/akshay-9h/literate-waddle/issues)
+- Project Link: [https://github.com/akshay-99h/literate-waddle](https://github.com/akshay-99h/literate-waddle)
+- Issues: [https://github.com/akshay-99h/literate-waddle/issues](https://github.com/akshay-99h/literate-waddle/issues)
